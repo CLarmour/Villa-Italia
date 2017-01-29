@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+
+@font-face {
+  font-family: "Italianno-Regular-OTF.otf";
+  src: url(/assets/Italianno-Regular-OTF.otf) format("truetype");
+}
